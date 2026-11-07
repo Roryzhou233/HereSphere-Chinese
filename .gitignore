@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+/original/
+/tools/
+/installer-test/
+/*.exe
+/*.pak
+/*.zip
+/*.h
+/*.cpp
+/*.json
+/pak-index.txt
+/release/*.pak
+/release/*.bin

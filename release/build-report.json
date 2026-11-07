@@ -1,0 +1,465 @@
+{
+  "base_pak": "HereSphere-WindowsNoEditor.pak",
+  "base_pak_sha256": "528add3c35a611bf41dd702734c156d7b2021c5f7f867bb4a5d2ec5a2775d3ec",
+  "patch_sha256": "87ad3e9d0b652da98ede34e35cd2c95362ceaac690facd8e473d712501a48ba3",
+  "patch_bytes": 10176213,
+  "files": 227,
+  "assets": 113,
+  "translated_properties": 2379,
+  "help_entries_translated": 359,
+  "help_entries_total": 369,
+  "changes": [
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_AutocompleteEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_BackspaceKey.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_HideKeyboard.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_Keyboard.uasset",
+      "translated_properties": 58
+    },
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_KeyText.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_Numpad.uasset",
+      "translated_properties": 23
+    },
+    {
+      "asset": "HereSphere/Content/UI/Keyboard/WBP_ShiftKey.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ApiSettingsConfirmationPrompt.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ApiSettingsPopup.uasset",
+      "translated_properties": 19
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_BookmarkEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_BrowserSettingsPopup.uasset",
+      "translated_properties": 28
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_CategorizedTags.uasset",
+      "translated_properties": 30
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_CategorizedTagsGroup.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ContextMenu.uasset",
+      "translated_properties": 9
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ContextMenuEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ContextMenuTransparent.uasset",
+      "translated_properties": 9
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_Controls.uasset",
+      "translated_properties": 25
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_CustomizableSettings.uasset",
+      "translated_properties": 118
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_DemoPrompt.uasset",
+      "translated_properties": 5
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_Description.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_DropDownEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_EditableTextBox.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_EulaPrompt.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ExpandableContextMenuEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ExportHSPPrompt.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorer.uasset",
+      "translated_properties": 18
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorerBookmark.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorerContextMenu.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorerDeletionEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorerDeletionMenu.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorerEntry.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_FileExplorerThumbnailEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ImageText.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ImportHSPPrompt.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_JumpScroll.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_KeyFrameEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_KeyFrameMenu.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MainWidget.uasset",
+      "translated_properties": 594
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MaskSettingsButton.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MaskSettingsMenu.uasset",
+      "translated_properties": 144
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MassExportHSPMenu.uasset",
+      "translated_properties": 10
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaLibrary.uasset",
+      "translated_properties": 27
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaListEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaOpenFailedPrompt.uasset",
+      "translated_properties": 5
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaPresetContextMenu.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaPresetDeletionEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaPresetDeletionMenu.uasset",
+      "translated_properties": 13
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaPresetEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MediaPresetThumbnailEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MenuOpacityPopup.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_MiscSettings.uasset",
+      "translated_properties": 261
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_Navigation.uasset",
+      "translated_properties": 35
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsOscillationEntry.uasset",
+      "translated_properties": 5
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsOscillationsMenu.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsPopupMenu.uasset",
+      "translated_properties": 54
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsRangeEntry.uasset",
+      "translated_properties": 5
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsRangesMenu.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsTimeOffsetEntry.uasset",
+      "translated_properties": 5
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PeripheralsTimeOffsetsMenu.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PictureQualityChange.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaybackTag.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaybackTools.uasset",
+      "translated_properties": 54
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistContextMenuEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistEntry.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistItemContextMenu.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistItemEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistItemsDeletionEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistItemsDeletionMenu.uasset",
+      "translated_properties": 13
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistItemThumbnailEntry.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistPopupMenuButton.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistPopupMenuEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistPopupMenuExpansionEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_Playlists.uasset",
+      "translated_properties": 12
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistsContextMenu.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_PlaylistsNavigation.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ProfileCreationPrompt.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ProfileLoadingPrompt.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ProjectionPresets.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ProjectionPresetsEntry.uasset",
+      "translated_properties": 19
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ProjectionPresetsMenu.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_ProjectionSettings.uasset",
+      "translated_properties": 274
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_RenamableTextBox.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SamplerButton.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SavedKeyBindingEntry.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SavedKeyBindingList.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SavedKeyBindingMenu.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SavedKeyLayerEntry.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SavedKeyLayerList.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SearchBar.uasset",
+      "translated_properties": 10
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SearchBookmarks.uasset",
+      "translated_properties": 4
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SearchEntry.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SelectAllButton.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SelectAllMenu.uasset",
+      "translated_properties": 9
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SliderBox.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SourceNavigation.uasset",
+      "translated_properties": 1
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SourcePreesetDeletionMenu.uasset",
+      "translated_properties": 8
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SourcePresetEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_SubtitlesPopupMenu.uasset",
+      "translated_properties": 26
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TagsContexetMenu.uasset",
+      "translated_properties": 24
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TagsEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TagsMenu.uasset",
+      "translated_properties": 82
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TextBox.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TextBoxCentered.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TextBoxColored.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_TextBoxWrapped.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_Timeline.uasset",
+      "translated_properties": 5
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_UniqueTagEntry.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_UserGuide.uasset",
+      "translated_properties": 14
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_VerticalSliderBox.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_VideoThumbnail.uasset",
+      "translated_properties": 2
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_VideoThumbnailContextMenu.uasset",
+      "translated_properties": 6
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_WebBrowserBookmark.uasset",
+      "translated_properties": 3
+    },
+    {
+      "asset": "HereSphere/Content/UI/WBP_WebStreaming.uasset",
+      "translated_properties": 62
+    }
+  ]
+}

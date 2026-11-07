@@ -1,0 +1,52 @@
+{
+  "original_sha256": "a3c4528a2c5b39dc2fcc8aa4b7f2f91f29881533bee7aeb497f6b0d05d8938fa",
+  "patched_sha256": "767d170421460ef400a2fc70394668452e68895e2fe2480b2ff1a13e27c2cb44",
+  "original_bytes": 72582144,
+  "append_offset": 72582144,
+  "edits": [
+    {
+      "offset": 12371780,
+      "before": "e8b7971300",
+      "after": "e8b72ec803"
+    },
+    {
+      "offset": 12374605,
+      "before": "e8ae8c1300",
+      "after": "e8ae23c803"
+    },
+    {
+      "offset": 12278782,
+      "before": "e8fd021500",
+      "after": "e8fd99c903"
+    },
+    {
+      "offset": 470,
+      "before": "0900",
+      "after": "0a00"
+    },
+    {
+      "offset": 544,
+      "before": "00008504",
+      "after": "00309904"
+    },
+    {
+      "offset": 640,
+      "before": "0000730420f91100",
+      "after": "f8288704b8021200"
+    },
+    {
+      "offset": 1088,
+      "before": "00000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "after": "2e6873636e000000b02b140000008504002c14000084530400000000000000000000000020000060"
+    }
+  ],
+  "translations": 1091,
+  "hook_calls": [
+    "0x140bcd144",
+    "0x140bcdc4d",
+    "0x140bb65fe"
+  ],
+  "previous_patched_sha256": [
+    "f34f0e7b16bcb9652f5f010a22897e434d20a329b0e28393e9afa3ce4fcfc540"
+  ]
+}
